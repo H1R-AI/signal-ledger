@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/banner.png" alt="무선신호 돋보기 — 시험 감독관용 안드로이드 앱" width="100%"></p>
+<p align="center"><a href="../../releases/latest/download/SignalLedger.apk"><img src="docs/banner.png" alt="무선신호 돋보기 — 시험 감독관용 안드로이드 앱. 이미지를 누르거나 QR을 비추면 APK를 받습니다." width="100%"></a></p>
 
 # 무선신호 돋보기
 
